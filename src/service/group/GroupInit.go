@@ -1,7 +1,7 @@
 package group
 
 import (
-	"jpon-service/src/service"
+	"github.com/t-kimura1988/japon-service/src/service"
 	"log"
 )
 

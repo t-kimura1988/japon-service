@@ -5,8 +5,8 @@ import (
 	"fmt"
 	domainErr "github.com/t-kimura1988/japon-domain/src/exceptions"
 	JaponService "github.com/t-kimura1988/japon-proto/pkg/grpc/messages/group"
-	serviceErr "jpon-service/src/exceptions"
-	"jpon-service/src/types"
+	serviceErr "github.com/t-kimura1988/japon-service/src/exceptions"
+	"github.com/t-kimura1988/japon-service/src/types"
 
 	"github.com/t-kimura1988/japon-domain/src/domain/group"
 )

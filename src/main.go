@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	japonGrpc "github.com/t-kimura1988/japon-proto/pkg/grpc"
+	"github.com/t-kimura1988/japon-service/src/service/group"
 	"google.golang.org/grpc"
-	"jpon-service/src/service/group"
 
 	"log"
 	"net"
