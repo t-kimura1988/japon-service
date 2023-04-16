@@ -4,8 +4,8 @@ import (
 	"fmt"
 	japonGrpc "github.com/t-kimura1988/japon-proto/pkg/grpc"
 	"google.golang.org/grpc"
-	//"jpon-service/src/types"
 	"jpon-service/src/service/group"
+
 	"log"
 	"net"
 )
