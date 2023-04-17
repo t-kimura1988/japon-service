@@ -5,7 +5,7 @@ import "fmt"
 type ServiceError struct {
 	Message    string
 	LogMessage string
-	Code       int64
+	Code       int
 }
 
 func (err *ServiceError) Error() string {
